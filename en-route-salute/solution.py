@@ -1,8 +1,17 @@
+""" Tim Hung timhung1010@gmail.com """
+
 def answer(s):
-    return 0
+    right_count, salutes = 0, 0
+    for char in s:
+        if char == '>':
+            right_count += 1
+        elif char == '<':
+            salutes += 2 * right_count
+    return salutes
 
 def test():
     test_cases = {
+        '--->-><-><-->-': 10,
         '>----<': 2,
         '<<>><': 4
     }
