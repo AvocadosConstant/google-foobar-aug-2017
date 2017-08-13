@@ -25,13 +25,21 @@ Test cases
 ==========
 
 Inputs:
+```
     (string) M = "2"
     (string) F = "1"
+```
 Output:
+```
     (string) "1"
+```
 
 Inputs:
+```
     (string) M = "4"
     (string) F = "7"
+```
 Output:
+```
     (string) "4"
+```

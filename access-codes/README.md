@@ -19,11 +19,19 @@ Test cases
 ==========
 
 Inputs:
+```
     (int list) l = [1, 1, 1]
+```
 Output:
+```
     (int) 1
+```
 
 Inputs:
+```
     (int list) l = [1, 2, 3, 4, 5, 6]
+```
 Output:
+```
     (int) 3
+```

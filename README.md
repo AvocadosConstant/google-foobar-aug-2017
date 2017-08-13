@@ -1,6 +1,6 @@
 # Google Foobar
-### Aug 2017
-### Version 54-9-g7348c6d-beta
+##### Aug 2017
+##### Version 54-9-g7348c6d-beta
 
 
 ## LEVEL 1

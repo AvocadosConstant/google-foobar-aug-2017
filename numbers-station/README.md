@@ -29,13 +29,21 @@ Test cases
 ==========
 
 Inputs:
+```
     (int list) l = [4, 3, 10, 2, 8]
     (int) t = 12
+```
 Output:
+```
     (int list) [2, 3]
+```
 
 Inputs:
+```
     (int list) l = [1, 2, 3, 4]
     (int) t = 15
+```
 Output:
+```
     (int list) [-1, -1]
+```
