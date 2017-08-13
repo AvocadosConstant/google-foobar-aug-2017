@@ -34,3 +34,7 @@ As Commander Lambda's personal assistant, you get to deal with all of the paperw
 One of these days you're going to manage to glimpse Commander Lambda's password over her shoulder. But she's very careful about security, and you haven't managed it yet...
 
 [Find the Access Codes](./access-codes)
+
+Who the heck puts clover and coffee creamer in their tea? Commander Lambda, apparently. When you signed up to infiltrate her organization, you didn't think you'd get such an up-close and personal look at her more...unusual tastes.
+
+[Queue to Do](./queue-to-do)
