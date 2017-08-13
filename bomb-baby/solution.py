@@ -13,21 +13,22 @@ from fractions import gcd
 def answer(m, f):
     m = int(m)
     f = int(f)
-    if gcd(m, f) != 1:
+
+    small = min(m, f)
+    large = max(m, f)
+    if gcd(small, large) != 1:
         return 'impossible'
 
     generation = 0
-    while m != 1 and f != 1:
-        if m < f:
-            f -= m
-        else:
-            m -= f
-        generation += 1
+    while small + large > 2:
+        div = large / small
+        mod = large % small
+        if mod == 0:
+            return str(generation + div - 1)
 
-    if m > 1:
-        generation += m - 1
-    elif f > 1:
-        generation += f - 1
+        large = small
+        small = mod
+        generation += div
 
     return str(generation)
 
