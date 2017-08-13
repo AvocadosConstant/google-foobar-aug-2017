@@ -30,3 +30,7 @@ Awesome! Commander Lambda was so impressed by your efforts that she's made you h
 As Commander Lambda's personal assistant, you get to deal with all of the paperwork involved in running a space station big enough to house the LAMBCHOP. And you thought Bunny HQ had too much bureaucracy...
 
 [Bomb Baby](./bomb-baby)
+
+One of these days you're going to manage to glimpse Commander Lambda's password over her shoulder. But she's very careful about security, and you haven't managed it yet...
+
+[Find the Access Codes](./access-codes)
