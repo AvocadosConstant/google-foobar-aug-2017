@@ -38,3 +38,8 @@ One of these days you're going to manage to glimpse Commander Lambda's password 
 Who the heck puts clover and coffee creamer in their tea? Commander Lambda, apparently. When you signed up to infiltrate her organization, you didn't think you'd get such an up-close and personal look at her more...unusual tastes.
 
 [Queue to Do](./queue-to-do)
+
+
+# LEVEL 4
+
+Excellent! You've destroyed Commander Lambda's doomsday device and saved Bunny Planet! But there's one small problem: the LAMBCHOP was a wool-y important part of her space station, and when you blew it up, you triggered a chain reaction that's tearing the station apart. Can you rescue the imprisoned bunnies and escape before the entire thing explodes?
