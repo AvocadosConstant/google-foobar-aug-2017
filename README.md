@@ -43,3 +43,7 @@ Who the heck puts clover and coffee creamer in their tea? Commander Lambda, appa
 # LEVEL 4
 
 Excellent! You've destroyed Commander Lambda's doomsday device and saved Bunny Planet! But there's one small problem: the LAMBCHOP was a wool-y important part of her space station, and when you blew it up, you triggered a chain reaction that's tearing the station apart. Can you rescue the imprisoned bunnies and escape before the entire thing explodes?
+
+Six thousand, seven hundred and forty-one, six thousand, seven hundred and forty-two, six thousand, seven hundred and forty-three... Good grief! Just how many bunnies has Commander Lambda captured?!
+
+[Escape Pods](./escape-pods)
