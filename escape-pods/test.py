@@ -13,9 +13,13 @@ class test_case:
             "\t=========\n"
             "\tEntrances:\t{}\n"
             "\tExits:\t\t{}\n"
-            "\tPaths:\t\t{}\n"
+            "\tPaths:\n{}\n"
             "\tAnswer:\t\t{}\n"
-        ).format(self.entrances, self.exits, self.path, self.answer)
+        ).format(
+            self.entrances,
+            self.exits,
+            '\n'.join(['\t\t\t' + str(row) for row in self.path]),
+            self.answer)
 
 
 def test():
@@ -44,6 +48,7 @@ def test():
         if computed != case.answer:
             print '\nFailed case!', case
             print 'Computed answer:\t', computed
-            return
+            print '\n============================='
+            #return
     print 'All cases passed!\n'
 test()
