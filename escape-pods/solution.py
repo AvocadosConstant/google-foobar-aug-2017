@@ -1,18 +1,19 @@
 """ Tim Hung timhung1010@gmail.com """
 
 from future_builtins import zip
+from collections import deque
 
 INF = float('inf')
 
 def find_augmented_path(graph, source, sink):
     """ Uses BFS to find an augmented path """
-    queue = [source]
+    queue = deque([source])
     parent_map = {}
     visited = set()
 
     # bfs to find the sink
     while queue:
-        cur = queue.pop(0)
+        cur = queue.popleft()
         for next_room, cap in enumerate(graph[cur]):
             # has capacity and is unvisited
             if cap and next_room not in visited:
@@ -21,7 +22,7 @@ def find_augmented_path(graph, source, sink):
                 parent_map[next_room] = cur
                 if next_room == sink:
                     # exit bfs
-                    queue = []
+                    queue.clear()
 
     if sink not in visited:
         return None
