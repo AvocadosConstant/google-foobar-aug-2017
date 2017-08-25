@@ -47,3 +47,7 @@ Excellent! You've destroyed Commander Lambda's doomsday device and saved Bunny P
 Six thousand, seven hundred and forty-one, six thousand, seven hundred and forty-two, six thousand, seven hundred and forty-three... Good grief! Just how many bunnies has Commander Lambda captured?!
 
 [Escape Pods](./escape-pods)
+
+Not all of the bunny prisoners are highly-trained operatives. Some of them are civilians, and they're panicking in all the noise and confusion of the space station's destruction. Several of them have wedged themselves into corners and started thumping, which isn't exactly helping the station's structural integrity...
+
+[Distract the Guards](./distract-the-guards)
